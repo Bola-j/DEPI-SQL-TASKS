@@ -1,0 +1,5 @@
+# Database backup files
+*.bak
+
+# Desktop configuration files
+desktop.ini
